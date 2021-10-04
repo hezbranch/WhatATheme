@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Hezekiah Branch
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: images/FAVICON.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
